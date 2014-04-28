@@ -1,0 +1,4 @@
+*.ipch
+Dyna_Q/Debug/
+Debug/
+*.sdf
