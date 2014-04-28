@@ -8,6 +8,7 @@ const double epsilon = 0.10;
 const double gamma = 0.95;
 const double alpha = 0.10;
 
+//dyna-q
 class GridWorld
 {
 private:
